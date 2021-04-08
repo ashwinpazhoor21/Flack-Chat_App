@@ -1,13 +1,4 @@
-# Project 2: Flack 
-### Web Programming with Python and JavaScript
-
-## Demonstration Video 
-
-Link: https://youtu.be/RQL9zjZp6SU
-
-
-
-## Flack, a Chat-App
+# Flack, a Chat-App
 
 This is a simple Flask web application where users can enter a name and create Chatrooms called Channels or go into one of the existing ones (if at least one already exists).
 
