@@ -1,7 +1,5 @@
 # Flack, a Chat-App
 
-Made with: Python, Javascript, HTML, CSS
-
 This is a simple Flask web application where users can enter a name and create Chatrooms called Channels or go into one of the existing ones (if at least one already exists).
 
 You can type and send messages into a channel that only exist within that channel and other users can read and respond to them.
